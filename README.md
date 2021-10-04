@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- 아이콘 표시하기 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hooneats&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hooneats&layout=compact&hide=javascript,css,html)](https://github.com/Hooneats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hooneats&layout=compact&hide=TeX,css,html)](https://github.com/Hooneats)
 
 
 
