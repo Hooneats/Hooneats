@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hooneats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 총 커밋 수에 비공개 기여도 (private contribs) 수 추가하기 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
-
 <!-- 아이콘 표시하기 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hooneats&show_icons=true&locale=kr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hooneats&layout=compact&hide=javascript,html,css)]
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Hooneats&count_bg=%blue&title_bg=%skyblue&icon=java.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)]
 
 
 
