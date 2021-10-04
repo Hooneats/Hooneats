@@ -1,4 +1,4 @@
-### Hi there 👋
+### 끊임없이 발전하는 개발자😊
 
 <!--
 **https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 <!-- 총 커밋 수에 비공개 기여도 (private contribs) 수 추가하기 -->
 <!-- 아이콘 표시하기 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hooneats&show_icons=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hooneats&layout=compact&hide=css,html)](https://github.com/Hooneats)
 
 
 
