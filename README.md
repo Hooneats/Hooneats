@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!-- 총 커밋 수에 비공개 기여도 (private contribs) 수 추가하기 -->
 <!-- 아이콘 표시하기 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hooneats&show_icons=true&locale=kr&text_color=#483D8B)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hooneats&show_icons=true&locale=kr&text_color=#B0E2FF)
 
 
 
