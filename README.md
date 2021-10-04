@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 
 <!-- 총 커밋 수에 비공개 기여도 (private contribs) 수 추가하기 -->
 <!-- 아이콘 표시하기 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hooneats&show_icons=true&locale=kr)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hooneats&layout=compact&hide=javascript,html,css)]
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Hooneats&count_bg=%blue&title_bg=%skyblue&icon=java.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hooneats&show_icons=true&locale=kr&text_color=#483D8B)]
+
+
+
 
 
 
