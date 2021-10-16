@@ -1,6 +1,9 @@
 ## 끊임없이 발전하는 개발자😊
+
 ## [🖋📘 Today I Learned 🏷](https://github.com/Hooneats/TIL)
+
 ---
+
 ```
 ✨ 나는 다음을 가치 있게 여길 것이다.
 ✔ 공정과 도구보다 개인과 상호작용을
@@ -9,6 +12,7 @@
 ✔ 계획을 따르기보다 변화에 대응하기를
                 - 애자일 소프트웨어 개발 선언
 ```
+---
 
 <!--
 **https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
