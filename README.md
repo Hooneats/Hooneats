@@ -1,4 +1,5 @@
 ## 끊임없이 발전하는 개발자😊
+## [🖋📘 Today I Learned 🏷](https://github.com/Hooneats/TIL)
 ---
 ```
 ✨ 나는 다음을 가치 있게 여길 것이다.
@@ -31,7 +32,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hooneats&layout=compact&hide=TeX,css,html)](https://github.com/Hooneats)
 
-## [📘 Today I Learned 🏷](https://github.com/Hooneats/TIL)
+
 
 
 
