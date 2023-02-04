@@ -1,6 +1,7 @@
 ## 끊임없이 발전하는 개발자😊
 #### 🏃‍♂️ 어제보다 더 나은 개발자가 되겠습니다.
-<img src="https://img.shields.io/badge/SpringBoot-008000?style=flat-square&logo=SpringBoot&logoColor=6DB33F"/></a>&nbsp 
+<img src="https://img.shields.io/badge/SpringBoot-008000?style=flat-square&logo=SpringBoot&logoColor=6DB33F"/></a>&nbsp
+<img src="https://img.shields.io/badge/Java-c77700?style=flat-square&logo=Java&logoColor=white"></a>
 ---
 
 ```
